@@ -1,0 +1,101 @@
+    .row-header{
+	margin:0px auto;
+    padding:0px auto
+     }
+	
+	.row-content{
+	margin:0px auto;
+	padding:30px 0px 30px 0px;
+	border-bottom:1px ridge;
+	min-height:400px;
+	}
+	.footer{
+	background-color:#d1c4e9;
+	margin:0px auto;
+	padding:20px 0px 20px 0px;
+	}
+	.jumbotron{
+	padding:70px 30px 70px 30px;
+	margin: 0px auto;
+	background:#9575cd;
+	color:floralwhite;
+	}
+	address{
+	margin:0px;
+	font-size:80%;
+	color:#0f0f0f;
+	}
+	.rowtab{
+	margin:50px 0px;
+    }
+    .tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    }
+    .carousel {
+        background:#512DA8;
+        }
+    
+    .carousel-item {
+      height: 300px;
+        }
+    
+    .carousel-item img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-height: 300px;
+        }
+    .modal-dialog{
+		background-color: white;
+
+    }
+    img{
+        max-height:110px;
+        max-width:110px;
+    }
+    .carousel-item p{
+        color:#ee9ca7;
+
+
+    }
+    .carousel-item img{
+        max-width: 400px;
+        max-height: 300px;
+    }
+    .active-pink-2 input.form-control[type=text]:focus:not([readonly]) {
+        border-bottom: 1px solid #f48fb1;
+        box-shadow: 0 1px 0 0 #f48fb1;
+      }
+      .active-pink input.form-control[type=text] {
+        border-bottom: 1px solid #f48fb1;
+        box-shadow: 0 1px 0 0 #f48fb1;
+      }
+      .search{
+          background-color:bg-primary ;
+      }
+
+
+
+      .form-elegant .font-small {
+        font-size: 0.8rem; }
+    
+    .form-elegant .z-depth-1a {
+        -webkit-box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25);
+        box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25); }
+    
+    .form-elegant .z-depth-1-half,
+    .form-elegant .btn:hover {
+        -webkit-box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15);
+        box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15); }
+    
+    .form-elegant .modal-header {
+        border-bottom: none; }
+    
+    .modal-dialog .form-elegant .btn .fab {
+        color: #2196f3!important; }
+    
+    .form-elegant .modal-body, .form-elegant .modal-footer {
+        font-weight: 400; }
